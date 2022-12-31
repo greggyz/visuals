@@ -1,11 +1,9 @@
 from pyclbr import Class
 from re import S
 import sys
-from turtle import color
 import pygame
 from pygame.locals import *
 from pygame import gfxdraw
-from pygame.font import Font
 import time
 import random
 import math

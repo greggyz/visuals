@@ -1,0 +1,2 @@
+# visuals
+fireball effect
